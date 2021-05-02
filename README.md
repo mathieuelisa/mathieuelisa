@@ -1,6 +1,6 @@
 ### Hi there, I'm Mathieu 👋
 
-## French Developer Fullstack JS based in Paris
+## French Developer Fullstack JS based in Paris.
 
 - 🔭 I working on my Portfolio and a Hangman Game as a autodidact
 - 🌱 I’m currently learning React.JS 🤣
@@ -9,8 +9,8 @@
 
 ### Contact:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MathieuElisa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MathieuElisa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -34,6 +34,13 @@
 <br />
 
 ---
+
+<details>
+  <summary>:zap: My GitHub Stats</summary>
+
+  <img align="left" alt="MathieuElisa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mathieuelisa&show_icons=true&hide_border=true" />
+
+</details>
 
 [twitter]: https://twitter.com/matt_elisah
 [linkedin]: https://linkedin.com/in/mathieu-elisa-1b47616a
