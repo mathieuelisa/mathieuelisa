@@ -2,9 +2,9 @@
 
 ## French Developer Fullstack JS based in Paris.
 
-- 🔭 I working on my Portfolio and a Hangman Game.
-- 🌱 I’m currently learning REACT
-- 🥅 2021-2022 Goals: Get my first experience and share my skills with a company.
+- 🔭 I working on a chat application.
+- 🌱 I’m currently learning REACT native / MERN stack
+- 🥅 2022-2023 Goals: Get my first experience and share my skills with a company.
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ### Contact:
