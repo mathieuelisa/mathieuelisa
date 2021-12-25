@@ -2,16 +2,16 @@
 
 ## French Developer Fullstack JS based in Paris.
 
-- 🔭 I working on a chat application.
+- 🔭 I started a new project in React Native
 - 🌱 I’m currently learning REACT native / MERN stack
 - 🥅 2022-2023 Goals: Get my first experience and share my skills with a company.
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
 
-[<img style="margin-right: 15px" align="left" alt="MathieuElisa | Twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="margin-right: 5px"  alt="MathieuElisa | Twitter" width="43px" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" />][twitter]
 
-[<img align="left" alt="MathieuElisa | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MathieuElisa | LinkedIn" width="42px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 <br />
 <br />
@@ -54,7 +54,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#mathieuelisa-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
@@ -93,9 +93,9 @@
     </td>
      <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="Git" />
+        <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>CSS 3
+      <br>MOCHA
     </td>
   </tr>
    <tr>
@@ -107,9 +107,9 @@
     </td>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" width="45" height="45" alt="Adobe XD" />
       </a>
-      <br>Figma
+      <br>Adobe XD
     </td>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
