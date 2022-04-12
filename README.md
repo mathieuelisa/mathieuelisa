@@ -2,10 +2,10 @@
 
 ## French Developer Fullstack JS based in Paris.
 
-- 🔭 I started a new project in React Native
-- 🌱 I’m currently learning REACT native / MERN stack
-- 🥅 2022-2023 Goals: Get my first experience and share my skills with a company.
-- ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
+- 🔭 Available
+- 🌱 I’m currently learning Next JS / Vue JS
+- 🥅 2022-2023 Goals: Sharing my skills with a company.
+- ⚡ Contact: [hello@mathieuelisa.com](hello@mathieuelisaa.com "My mail")
 
 ## Contact:
 
