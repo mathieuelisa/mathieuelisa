@@ -2,10 +2,11 @@
 
 ## French Developer Fullstack JS based in Paris.
 
-- 🔭 Available
+- 🔭 I'm working in Paris at FoodCheri as Full Stack developer
+- 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio")
 - 🌱 I’m currently learning Next JS / Vue JS
-- 🥅 2022-2023 Goals: Sharing my skills with a company.
-- ⚡ Contact: [hello@mathieuelisa.com](hello@mathieuelisaa.com "My mail")
+- 🥅 2022 Goals: Learn a new framework (Vue JS)
+- ⚡ Contact: [hello@mathieuelisa.com](hello@mathieuelisa.com "My mail")
 
 ## Contact:
 
