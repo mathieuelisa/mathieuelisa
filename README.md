@@ -6,7 +6,7 @@
 - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio")
 - 🌱 I’m currently learning Next JS / Vue JS
 - 🥅 2022 Goals: Learn a new framework (Vue JS)
-- ⚡ Contact: [hello@mathieuelisa.com](hello@mathieuelisa.com "My mail")
+- ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
 
