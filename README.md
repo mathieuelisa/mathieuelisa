@@ -1,9 +1,10 @@
 ### Hi there, I'm Mathieu 👋
 
-## French Developer Fullstack JS based in Paris.
+## French React Developer based in Paris.
 
-- 🔭 I'm working in Paris at FoodCheri as Full Stack developer
-- 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio")
+<!-- - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio") -->
+
+- 🔭 I'm working in Paris
 - 🌱 I’m currently learning Next JS / Vue JS
 - 🥅 2022 Goals: Learn a new framework (Vue JS)
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
