@@ -4,7 +4,7 @@
 
 <!-- - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio") -->
 
-- 🔭 I'm working in Paris as a consultant
+- 🔭 I'm actually working in Paris as a consultant
 - 🌱 I’m currently learning Prismic IO
 - 🥅 2023 Goals: Learn a new framework (Svelte)
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
