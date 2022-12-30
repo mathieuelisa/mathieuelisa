@@ -4,7 +4,7 @@
 
 <!-- - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio") -->
 
-- 🔭 I'm actually working in Paris as a consultant
+- 🔭 I'm actually working in Paris 9ème as a consultant
 - 🌱 I’m currently learning Prismic IO
 - 🥅 2023 Goals: Learn a new framework (Svelte)
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
@@ -78,9 +78,9 @@
     </td>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="48" height="48" alt="Jira" />
       </a>
-      <br>Git
+      <br>Jira
     </td>
       <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
