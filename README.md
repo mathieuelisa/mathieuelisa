@@ -6,7 +6,7 @@
 
 - 🔭 I'm working in Paris as a consultant
 - 🌱 I’m currently learning Prismic IO
-- 🥅 2022 Goals: Learn a new framework (Svelte)
+- 🥅 2023 Goals: Learn a new framework (Svelte)
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
