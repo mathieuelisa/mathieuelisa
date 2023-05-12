@@ -5,19 +5,18 @@
 <!-- - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio") -->
 
 - 🔭 I'm actually working in Paris 9ème as a consultant
-- 🌱 I’m currently learning Prismic IO
+- 🌱 I’m currently learning Next 13 with app router
 - 🥅 2023 Goals: Learn a new framework (Svelte)
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
 
-[<img style="margin-right: 5px"  alt="MathieuElisa | Twitter" width="43px" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" />][twitter] <hr/>
+[<img style="margin-right: 5px"  alt="MathieuElisa | Twitter" width="43px" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" />][twitter]
 
-[<img align="left" alt="MathieuElisa | LinkedIn" width="42px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+<!-- [<img align="left" alt="MathieuElisa | LinkedIn" width="42px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] -->
 
 <br />
 <br />
-
 
 ## Languages and Tools:
 
