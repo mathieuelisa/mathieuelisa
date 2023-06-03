@@ -4,9 +4,9 @@
 
 <!-- - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio") -->
 
-- 🔭 I'm actually working in Paris 9ème as a consultant
-- 🌱 I’m currently learning Next 13 with app router
-- 🥅 2023 Goals: Learn a new framework (Svelte)
+- 🔭 I'm actually working in Paris 9ème as consultant
+- 🌱 I’m currently updating on Next 13.4 
+- 🥅 2023 Goals: Learn a new framework (Svelte or Vue JS)
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
