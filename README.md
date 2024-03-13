@@ -4,9 +4,9 @@
 
 <!-- - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio") -->
 
-- 🔭 I'm working in Paris at Free company
+- 🔭 I'm working in Paris at Free as a Frontend developer
 - 🌱 I’m currently learning Tan stack
-- 🥅 2024 Goals: Learn a new framework (Vue JS)
+- 🥅 2024 Goals: Learn a new framework (Vue JS or Svelte) or Native
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
