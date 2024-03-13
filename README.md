@@ -1,19 +1,19 @@
-### Hi there, I'm Matt 👋
+### Hi there, I'm Mathieu 👋
 
 ## French React Developer based in Paris.
 
 <!-- - 👩🏻‍💻 My portfolio is [here](https://www.mathieuelisa.com/ "My portfolio") -->
 
-- 🔭 I'm actually working in Paris 9ème as consultant
-- 🌱 I’m currently updating on Next 13.4 
-- 🥅 2023 Goals: Learn a new framework (Svelte or Vue JS)
+- 🔭 I'm working in Paris at Free company
+- 🌱 I’m currently learning Tan stack
+- 🥅 2024 Goals: Learn a new framework (Vue JS)
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
 
 [<img style="margin-right: 5px"  alt="MathieuElisa | Twitter" width="43px" src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" />][twitter]
 
-<!-- [<img align="left" alt="MathieuElisa | LinkedIn" width="42px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] -->
+[<img align="left" alt="MathieuElisa | LinkedIn" width="42px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 <br />
 <br />
@@ -26,9 +26,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
-        <img src="https://europe1.discourse-cdn.com/business20/uploads/prismic/original/1X/eaa520b0fc4721c57b9455b377d309009cbcea39.png" width="48" height="48" alt="Prismic" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Prismic IO
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
@@ -71,21 +71,21 @@
     </td>
     <td align="center"  width="96">
       <a href="#mathieuelisa-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
       </a>
-      <br>Tailwind
+      <br>WordPress
     </td>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="48" height="48" alt="Jira" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Jira
+      <br>Git
     </td>
       <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
-        <img src="https://raw.githubusercontent.com/jsstyles/logo/master/logo.png" width="48" height="48" alt="Git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>React JSS
+      <br>Postgre SQL
     </td>
       <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
@@ -95,17 +95,17 @@
     </td>
      <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="48" height="48" alt="Git" />
+        <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Jest
+      <br>MOCHA
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
-        <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="48" height="48" alt="Bash" />
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
-      <br>Next JS
+      <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
