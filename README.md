@@ -6,7 +6,7 @@
 
 - 🔭 I'm working in Paris at Free as a Frontend developer
 - 🌱 I’m currently learning Tan stack Router
-- 🥅 2024 Goals: Learn a new framework (Vue JS or Svelte) or Native
+- 🥅 2025 Goals: Learn a new framework (Vue JS or Svelte) or Native
 - ⚡ Contact: [mathieu.elisa@gmail.com](mathieu.elisa@gmail.com "My mail")
 
 ## Contact:
