@@ -102,7 +102,7 @@
    <tr>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
-        <img src="[https://bashlogo.com/img/symbol/png/full_colored_dark.png](https://egghead.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdg3gyk0gu%2Fimage%2Fupload%2Fv1683914713%2Ftags%2Ftanstack.png&w=1080&q=100)" width="48" height="48" alt="Bash" />
+        <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" width="48" height="48" alt="Bash" />
       </a>
       <br>TanStack
     </td>
