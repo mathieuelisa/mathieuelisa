@@ -94,7 +94,7 @@
     </td>
      <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
-        <img src="[https://cdn.worldvectorlogo.com/logos/mocha-1.svg](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Git" />
       </a>
       <br>TAILWIND
     </td>
