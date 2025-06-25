@@ -94,17 +94,17 @@
     </td>
      <td align="center" width="96">
       <a href="#mathieuelisa-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" width="48" height="48" alt="Git" />
+        <img src="[https://cdn.worldvectorlogo.com/logos/mocha-1.svg](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)" width="48" height="48" alt="Git" />
       </a>
-      <br>MOCHA
+      <br>TAILWIND
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+        <img src="[https://bashlogo.com/img/symbol/png/full_colored_dark.png](https://egghead.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdg3gyk0gu%2Fimage%2Fupload%2Fv1683914713%2Ftags%2Ftanstack.png&w=1080&q=100)" width="48" height="48" alt="Bash" />
       </a>
-      <br>Bash
+      <br>TanStack
     </td>
     <td align="center" width="96">
       <a href="#mathieuelisa-tech">
